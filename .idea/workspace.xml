@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faaf7c14-f06c-4061-be2a-edbb824c5864" name="Default Changelist" comment="desafio 16 e 17">
+    <list default="true" id="faaf7c14-f06c-4061-be2a-edbb824c5864" name="Default Changelist" comment="desafio 18">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-017.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-018.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-019.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-019.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,28 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Desafio-018">
-    <configuration name="Desafio-015" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Phyton---Curso-em-Video-1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script-Python/Desafio" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script-Python/Desafio/Desafio-015.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Desafio-019">
     <configuration name="Desafio-016" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Phyton---Curso-em-Video-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,6 +101,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Desafio-019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Phyton---Curso-em-Video-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script-Python/Desafio" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script-Python/Desafio/Desafio-019.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Desafio-021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Phyton---Curso-em-Video-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Desafio-019" />
         <item itemvalue="Python.Desafio-018" />
         <item itemvalue="Python.Desafio-017" />
         <item itemvalue="Python.Desafio-016" />
         <item itemvalue="Python.Desafio-021" />
-        <item itemvalue="Python.Desafio-015" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613405851193</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="desafio 18">
+      <created>1613407168062</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613407168062</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +209,7 @@
     <MESSAGE value="desafio 9" />
     <MESSAGE value="desafio 15" />
     <MESSAGE value="desafio 16 e 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio 16 e 17" />
+    <MESSAGE value="desafio 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio 18" />
   </component>
 </project>
