@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faaf7c14-f06c-4061-be2a-edbb824c5864" name="Default Changelist" comment="desafio 21">
-      <change afterPath="$PROJECT_DIR$/Script-Python/Aula-009-.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-027.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-022.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +39,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Script-Python/Desafio/Desafio-022.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Script-Python/Desafio" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lerfs\Documents\Meus_Projetos\GitHub\Phyton---Curso-em-Video-1\Script-Python\Desafio" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Desafio-021">
+  <component name="RunManager" selected="Python.Desafio-022">
     <configuration name="Desafio-017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Phyton---Curso-em-Video-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio-021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio-022" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Phyton---Curso-em-Video-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,7 +154,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Desafio-021" />
+        <item itemvalue="Python.Desafio-022" />
         <item itemvalue="Python.Desafio-020" />
         <item itemvalue="Python.Desafio-019" />
         <item itemvalue="Python.Desafio-018" />
@@ -233,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613430017329</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="desafio 21">
+      <created>1613916055500</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613916055500</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
