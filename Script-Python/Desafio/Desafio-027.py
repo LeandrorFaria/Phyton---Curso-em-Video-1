@@ -3,3 +3,8 @@
 # primeiro: Ana
 # último: Braga
 
+nome = str(input('Qual seu nome completo: ')).strip()
+nome_separado = nome.split()
+print('Seu primeiro nome é : {}'.format(nome_separado[0]))
+print('Seu último nome é : {}'.format(nome_separado[len(nome_separado) - 1]))
+
