@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faaf7c14-f06c-4061-be2a-edbb824c5864" name="Default Changelist" comment="desafio 28">
+    <list default="true" id="faaf7c14-f06c-4061-be2a-edbb824c5864" name="Default Changelist" comment="desafio 29">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-029.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-029.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-030.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-030.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,77 +47,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Script-Python/Desafio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Script-Python/Desafio/Desafio-033.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lerfs\Documents\Meus_Projetos\GitHub\Phyton---Curso-em-Video-1\Script-Python\Desafio" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Desafio-029">
-    <configuration name="Desafio-027" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Phyton---Curso-em-Video-1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script-Python/Desafio" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="false" />
-      <option name="ADD_SOURCE_ROOTS" value="false" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script-Python/Desafio/Desafio-027.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Desafio-028" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Phyton---Curso-em-Video-1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script-Python/Desafio" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script-Python/Desafio/Desafio-028.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Desafio-029" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Phyton---Curso-em-Video-1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script-Python/Desafio" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script-Python/Desafio/Desafio-029.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Desafio-030">
     <configuration name="Desafio-030" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Phyton---Curso-em-Video-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Desafio-031" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Phyton---Curso-em-Video-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,29 +85,114 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="false" />
       <option name="ADD_SOURCE_ROOTS" value="false" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script-Python/Desafio/Desafio-031.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="true" />
+      <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="C:\Users\lerfs\Documents\Meus_Projetos\GitHub\Phyton---Curso-em-Video-1\Script-Python\Desafio" />
       <method v="2" />
     </configuration>
+    <configuration name="Desafio-032" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Phyton---Curso-em-Video-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script-Python/Desafio" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script-Python/Desafio/Desafio-032.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio-033" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Phyton---Curso-em-Video-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script-Python/Desafio" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script-Python/Desafio/Desafio-033.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio-034" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Phyton---Curso-em-Video-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script-Python/Desafio" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script-Python/Desafio/Desafio-034.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio-035" type="PythonConfigurationType" factoryName="Python">
+      <module name="Phyton---Curso-em-Video-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lerfs\Documents\Meus_Projetos\GitHub\Phyton---Curso-em-Video-1\Pycharm\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Script-Python/Desafio" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script-Python/Desafio/Desafio-035.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Desafio-028" />
-      <item itemvalue="Python.Desafio-029" />
+      <item itemvalue="Python.Desafio-035" />
       <item itemvalue="Python.Desafio-030" />
-      <item itemvalue="Python.Desafio" />
-      <item itemvalue="Python.Desafio-027" />
+      <item itemvalue="Python.Desafio-031" />
+      <item itemvalue="Python.Desafio-032" />
+      <item itemvalue="Python.Desafio-033" />
+      <item itemvalue="Python.Desafio-034" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Desafio-029" />
-        <item itemvalue="Python.Desafio-028" />
-        <item itemvalue="Python.Desafio" />
-        <item itemvalue="Python.Desafio-027" />
         <item itemvalue="Python.Desafio-030" />
+        <item itemvalue="Python.Desafio-034" />
+        <item itemvalue="Python.Desafio-033" />
+        <item itemvalue="Python.Desafio-031" />
+        <item itemvalue="Python.Desafio-032" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +324,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613993083744</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="desafio 30">
+      <created>1613993859343</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1613993859343</updated>
+    </task>
+    <task id="LOCAL-00019" summary="desafio 29">
+      <created>1613993899277</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1613993899277</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,6 +370,8 @@
     <MESSAGE value="desafio 27" />
     <MESSAGE value="Aula 10" />
     <MESSAGE value="desafio 28" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio 28" />
+    <MESSAGE value="desafio 30" />
+    <MESSAGE value="desafio 29" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio 29" />
   </component>
 </project>
