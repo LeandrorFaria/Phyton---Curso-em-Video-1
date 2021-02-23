@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faaf7c14-f06c-4061-be2a-edbb824c5864" name="Default Changelist" comment="desafio 31">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-032.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-032.py" afterDir="false" />
+    <list default="true" id="faaf7c14-f06c-4061-be2a-edbb824c5864" name="Default Changelist" comment="desafio 32">
+      <change beforePath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-033.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-033.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <recent name="C:\Users\lerfs\Documents\Meus_Projetos\GitHub\Phyton---Curso-em-Video-1\Script-Python\Desafio" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Desafio-032">
+  <component name="RunManager" selected="Python.Desafio-033">
     <configuration name="Desafio-030" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Phyton---Curso-em-Video-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,11 +187,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Desafio-033" />
         <item itemvalue="Python.Desafio-032" />
         <item itemvalue="Python.Desafio-031" />
         <item itemvalue="Python.Desafio-030" />
         <item itemvalue="Python.Desafio-034" />
-        <item itemvalue="Python.Desafio-033" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614076149506</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="desafio 32">
+      <created>1614076668359</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1614076668359</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -394,6 +400,7 @@
     <MESSAGE value="desafio 29" />
     <MESSAGE value="desafio 30" />
     <MESSAGE value="desafio 31" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio 31" />
+    <MESSAGE value="desafio 32" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio 32" />
   </component>
 </project>
