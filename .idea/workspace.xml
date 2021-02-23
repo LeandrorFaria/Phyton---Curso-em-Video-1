@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faaf7c14-f06c-4061-be2a-edbb824c5864" name="Default Changelist" comment="desafio 33">
-      <change beforePath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-034.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-034.py" afterDir="false" />
+    <list default="true" id="faaf7c14-f06c-4061-be2a-edbb824c5864" name="Default Changelist" comment="desafio 34">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-035.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script-Python/Desafio/Desafio-035.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <recent name="C:\Users\lerfs\Documents\Meus_Projetos\GitHub\Phyton---Curso-em-Video-1\Script-Python\Desafio" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Desafio-034">
+  <component name="RunManager" selected="Python.Desafio-035">
     <configuration name="Desafio-030" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Phyton---Curso-em-Video-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -372,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614077198808</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="desafio 34">
+      <created>1614077828719</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1614077828719</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,6 +417,7 @@
     <MESSAGE value="desafio 31" />
     <MESSAGE value="desafio 32" />
     <MESSAGE value="desafio 33" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio 33" />
+    <MESSAGE value="desafio 34" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio 34" />
   </component>
 </project>
